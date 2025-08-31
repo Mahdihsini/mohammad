@@ -3,7 +3,6 @@
 
 ### 📄 `src/main.py`
 ```python
-def hello():
     return "Hello, GitHub!"
 
 if __name__ == "__main__":
