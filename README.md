@@ -9,5 +9,5 @@ if __name__ == "__main__":
     print(hello())
 good luck
 love you
-have a nice day
-
+have a nice da
+goshname
