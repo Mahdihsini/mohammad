@@ -14,3 +14,4 @@ goshname
 good
 I’m so happy to be part of something big✅💯🔥
 Posting my daily #gUmi to keep the streak alive 🔥
+https://x.com/mahdi_hsini/status/1994684558009106596?s=20
