@@ -17,3 +17,4 @@ Posting my daily #gUmi to keep the streak alive 🔥
 https://x.com/mahdi_hsini/status/1994684558009106596?s=20
 Exploring the world of @UmiNetwork — the future of decentralized finance 🔥
 https://x.com/mahdi_hsini/status/1999156597176652029?s=20
+Another quest completed on Umi Odyssey 💫 Earning XP every day!
